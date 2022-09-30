@@ -114,12 +114,12 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   
-  -[Installation](#installation)
-  -[Usage](#Usage)
-  -[License](#License)
-  -[How To Contribute](#How To Contribute)
-  -[Tests](#Tests)
-  -[Questions](#Questions)
+  - [Installation](#installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributions](#Contributions)
+  - [Tests](#Tests)
+  - [Questions](#Questions)
 
   ## Installation
   
@@ -134,7 +134,7 @@ function generateMarkdown(data) {
   
   ${renderLicenseSection(data.license)}
 
-  ## How To Contribute
+  ## Contributions
   
   ${data.contribute}
 
@@ -146,8 +146,8 @@ function generateMarkdown(data) {
   ## Questions
   
   Feel free to reach out to me if you have any questions. Contact info below:
-  -[GitHub](https:://github.com/${data.github})
-  -Email: ${data.email}
+  - [GitHub](https:://github.com/${data.github})
+  - Email: ${data.email}
 `;
 }
 
