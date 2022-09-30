@@ -146,7 +146,7 @@ function generateMarkdown(data) {
   ## Questions
   
   Feel free to reach out to me if you have any questions. Contact info below:
-  -[GitHub](${data.github})
+  -[GitHub](https:://github.com/${data.github})
   -Email: ${data.email}
 `;
 }
