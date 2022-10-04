@@ -20,7 +20,7 @@
 
   ## Usage
   
-  This project runs on Node.js. [Example](https://drive.google.com/file/d/1jiUJdAnKT3WR8nsjmF02nliiaDY28RM-/view)
+  This project runs on Node.js. [Example](https://watch.screencastify.com/v/0bDEVuCTh0y2KvpA4Gw6)
 
   ## License
   
